@@ -1,0 +1,6 @@
+{
+  "name": "Apex Auto Detail",
+  "description": "Premium luxury auto detailing, paint correction, and ceramic coating website and booking platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
